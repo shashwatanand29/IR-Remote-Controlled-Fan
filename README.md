@@ -38,11 +38,4 @@ A home automation prototype built in **November 2022** that enables users to con
 
 ## 🖼️ Project Images
 
-> *(Optional: Add circuit photos or prototype images here)*
-
-```html
-<table>
-  <tr>
-    <td><img src="IR_Remote_Controlled_Fan_Prototype.jpg" width="300"/></td>
-  </tr>
-</table>
+<img src="IR_Remote_Controlled_Fan_Prototype.jpg" alt="IR Remote Controlled Fan Prototype" width="500"/>
