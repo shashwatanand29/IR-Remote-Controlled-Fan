@@ -7,8 +7,9 @@ A home automation prototype built in **November 2022** that enables users to con
 ## ⚙️ Features
 
 - **IR Remote Operation**: Control the fan wirelessly using common IR remotes (e.g., TV remotes).
-- **Pulse Decoding with ICs**: CD4017 Decade Counter + 555 Timer used for decoding IR pulses.
+- **Pulse Decoding with ICs**: CD4017 Decade Counter used for decoding IR pulses.
 - **Relay-Based Control**: Safe switching of the fan circuit using a relay and BC547 transistor.
+- **LM7805 Voltage Regulator IC is used to drive all the function components like CD4017, BC547, etc.
 - **Compact Build**: Power-efficient and suitable for small-scale automation setups.
 
 ---
@@ -16,7 +17,7 @@ A home automation prototype built in **November 2022** that enables users to con
 ## 🔩 Technologies Used
 
 - CD4017 Decade Counter
-- NE555 Timer IC
+- LM7805 5 Voltage Regulator IC
 - BC547 NPN Transistor
 - IR Transmitter & Receiver Modules
 - Electromechanical Relay
