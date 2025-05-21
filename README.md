@@ -43,7 +43,6 @@ A home automation prototype built in **November 2022** that enables users to con
 ```html
 <table>
   <tr>
-    <td><img src="IR_Remote_Controlled_Fan_Circuit.jpg" width="300"/></td>
     <td><img src="IR_Remote_Controlled_Fan_Prototype.jpg" width="300"/></td>
   </tr>
 </table>
