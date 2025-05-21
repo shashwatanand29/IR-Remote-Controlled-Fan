@@ -17,12 +17,12 @@ A home automation prototype built in **November 2022** that enables users to con
 ## 🔩 Technologies Used
 
 - CD4017 Decade Counter
-- LM7805 5 Voltage Regulator IC
+- LM7805 5 Volt Regulator IC
 - BC547 NPN Transistor
-- IR Transmitter & Receiver Modules
+- IR Transmitter & Receiver Modules (Diodes)
 - Electromechanical Relay
 - DC Fan Motor
-- 9V Battery
+- 9V Batteries 
 
 ---
 
